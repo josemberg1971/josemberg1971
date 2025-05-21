@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @josemberg R c Matos
+- 👋 Hi, I’m @josemberg R  C Matos
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning Data Engineering 
 - 💞️ I’m looking to Uv python 
