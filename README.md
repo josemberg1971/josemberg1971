@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @josemberg R  C Matos
-- 👀 I’m interested in Data
+- 👀 I’m Data scientist 
 - 🌱 I’m currently learning Data Engineering 
-- 💞️ I’m looking to Uv python 
+- 📒 Uv python 
 
 <!---
 josemberg1971/josemberg1971 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
